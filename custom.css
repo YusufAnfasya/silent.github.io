@@ -1,5 +1,5 @@
 body{
-    background: #f3f3f3;
+    background: #3c545e;
     color: #333;
     width: 100%;
     font-family: sans-serif;
@@ -11,24 +11,25 @@ body{
     margin: auto;
     height: 120px;
     line-height: 120px;
-    background: #41a85f;
+    background: #000000c2;
     color: #f3f3f3;
 }
 
 .content{
     width: 90%;
     margin: auto;
-    height: 420px;
+    height: 1100px;
     padding: 0.1px;
-    background: #fff;
-    color: #333;
+    background: rgba(0, 0, 0, 0.144);
+    color: rgb(221, 221, 221);
 }
 .kiri{
     width: 70%;
     float: left;
     margin: auto;
-    background: #fff;
-    height: 420px;
+    background: rgba(0, 0, 0, 0.185);
+    height: 1100px;
+
 }
 
 .kanan{
@@ -36,12 +37,13 @@ body{
     width: 30%;
     float: left;
     margin: auto;
-    background: #fff;
-    height: 420px;   
+    background: rgba(0, 0, 0, 0.055);
+    height: 1100px;
+     
 }
 
 .border{
-    border: 2px solid #74C599;
+    border: 2 px solid #ffffff;
     margin-top: 1pc;
     padding-bottom: 1pc;
     padding-left: 2pc;
@@ -49,20 +51,21 @@ body{
 }
 
 .undercor{
-    text-decoration: none;
+    color: rgb(255, 255, 255);
 }
 
 .footer{
-    width: 90% ;
-    margin: auto ;
+    width: 100% ;
+    margin: auto;
+    text-align: center;
     height: 40px;
     line-height: 40px;
-    background: rgb(94, 230, 135);
+    background: rgba(0, 0, 0, 0.719);
     color: #fff;
 }
 
 .menu{
-    background-color: #53bd84;
+    background-color: #0000009d;
     height: 50px;
     line-height: 50px;
     position: relative;
